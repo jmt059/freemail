@@ -12,7 +12,7 @@ database_id = "c82663ac-62b6-4ba6-be81-cbe297f2a3dd" # 你的database_id
 # 环境变量
 [vars]
 # FORWARD_RULES="[{"prefix":"vip","email":"a@example.com"},{"prefix":"*","email":"2141083706@qq.com"}]"
-
+MAIL_DOMAIN = "moonlit059.site"
 
 # 静态资源目录（Workers + Assets）
 [assets]
